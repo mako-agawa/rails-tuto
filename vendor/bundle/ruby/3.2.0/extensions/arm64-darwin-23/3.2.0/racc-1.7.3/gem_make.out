@@ -1,0 +1,19 @@
+current directory: /Users/makoto_mbp/Desktop/dev/rubyonRails/rails-tutor/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/makoto_mbp/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/makoto_mbp/Desktop/dev/rubyonRails/rails-tutor/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240423-99526-6wabvq sitelibdir\=./.gem.20240423-99526-6wabvq clean
+
+current directory: /Users/makoto_mbp/Desktop/dev/rubyonRails/rails-tutor/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240423-99526-6wabvq sitelibdir\=./.gem.20240423-99526-6wabvq
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/makoto_mbp/Desktop/dev/rubyonRails/rails-tutor/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240423-99526-6wabvq sitelibdir\=./.gem.20240423-99526-6wabvq install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240423-99526-6wabvq/racc
+
+current directory: /Users/makoto_mbp/Desktop/dev/rubyonRails/rails-tutor/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240423-99526-6wabvq sitelibdir\=./.gem.20240423-99526-6wabvq clean
